@@ -2,6 +2,10 @@
 
 „Dealing with problems“ – © Yang Liu, Taschen Verlag, Köln
 
+# Publications
+
+This article is published on [Medium](https://medium.com/@andreas.rau93/how-pilots-communicate-3c9f4b366f4f) and [Mercedes-Benz](https://www.mercedes-benz.io/2022/11/11/how-pilots-communicate/)
+
 # Andreas Rau – How pilots communicate
 
 ... and what we as Software Engineers/ Designers and Businessmen can learn from it
